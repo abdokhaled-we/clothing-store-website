@@ -1,0 +1,18 @@
+<svg width="132" height="130" viewBox="14 8 132 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="markGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b3a36"/>
+      <stop offset="55%" stop-color="#8a6d4f"/>
+      <stop offset="100%" stop-color="#b08d57"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark: three overlapping forms merging into one, symbolizing "UNIFY" -->
+  <g>
+    <circle cx="62" cy="90" r="40" fill="#3b3a36" opacity="0.92"/>
+    <circle cx="98" cy="90" r="40" fill="#b08d57" opacity="0.85"/>
+    <circle cx="80" cy="56" r="40" fill="#e5ded2" opacity="0.9"/>
+    <!-- overlap core -->
+    <circle cx="80" cy="80" r="16" fill="url(#markGradient)"/>
+  </g>
+</svg>
